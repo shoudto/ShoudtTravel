@@ -1,5 +1,5 @@
 # Travel-Project
-I have created a Travel Webiste using HTML and CSS.
+I have created a Travel Website using HTML and CSS.
 
 ## Installation
 
