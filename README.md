@@ -14,4 +14,4 @@ And then execute:
     a live server
 
 ## Usage
-This web application provides a user experience of viewing a travel website. It is a demo where you can view mutiple section and able to submit a form request to be contacted. But don't worry this is just a demo. 
+This web application provides a user experience of viewing a travel website. It is a demo where you can view mutiple sections and submit a form request to be contacted. But don't worry this is just a demo!
